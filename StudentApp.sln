@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentApp", "StudentApp\StudentApp.csproj", "{FE9F94DE-2D0D-4A7D-B378-2A98A3D6875A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9F94DE-2D0D-4A7D-B378-2A98A3D6875A}.Debug|x86.ActiveCfg = Debug|x86
+		{FE9F94DE-2D0D-4A7D-B378-2A98A3D6875A}.Debug|x86.Build.0 = Debug|x86
+		{FE9F94DE-2D0D-4A7D-B378-2A98A3D6875A}.Release|x86.ActiveCfg = Release|x86
+		{FE9F94DE-2D0D-4A7D-B378-2A98A3D6875A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
